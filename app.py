@@ -136,4 +136,4 @@ with tab7:
     fig_result = px.bar(pred_group, x='Sex', y='Survived', title='성별에 따른 예측 생존률')
     st.plotly_chart(fig_result)
 
-st.markdown("<hr><center>🚢 타이타닉 분석 대시보드 • AI 도우미와 함께 개발되었습니다</center>", unsafe_allow_html=True)pippo
+st.markdown("<hr><center>🚢 타이타닉 분석 대시보드 • AI 도우미와 함께 개발되었습니다</center>", unsafe_allow_html=True)
